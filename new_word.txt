@@ -1,0 +1,1 @@
+这是一个文本文件，记录git连接GitHub，git add .推送到暂存区；git commit -m "推送到本地仓库"；git push 推送到远程仓库
